@@ -1,7 +1,7 @@
 # Gas-station-manager
 Developed a system in C programming language to manage operations for a gas company
 
-Introduction:
+Introduction:<br>
 The system is a dynamic solution designed for managing a network of fuel stations. It addresses all necessary aspects of network management, from processing data from text or binary files to adding data across various domains managed by the company. The system handles data from multiple domains, including active stations, suppliers, employees, customers, fueling pumps, vehicle fleets, and delivery lists. It utilizes special tools such as sorting, binary search, data compression, and more.
 
 The system can display data on the screen or export it to any file type (text or binary) and also allows individual data output for specific areas upon request. It is always available for adding data in any domain managed by the company in an accessible and efficient manner, providing specific error messages if the user inputs incorrect data due to the unique structure of most of the data formats.
